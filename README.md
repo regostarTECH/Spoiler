@@ -46,7 +46,7 @@ echo parseSpoilers($post_text);
 
 ## Dasturchi
 
-**Bu teg php da foydalanish uchun Murod Primov tomonidan ishlab chiqildi**
+Bu `teg` php da foydalanish uchun `Murod Primov` tomonidan ishlab chiqildi.
 
 
 
