@@ -34,15 +34,7 @@ echo parseSpoilers($post_text);
 
 ## 🛠 Teglar
 
-**:spo:** → spoiler boshlanishi
-
-**:*spo:** yoki **:/spo:** → spoiler tugashi
-
-
----
-
-👉 Shu README ichiga men oddiy qora fonli versiyani yozdim.  
-❓ Siz hohlaysizmi, **Telegram’dagi kabi particle animatsiya misolini ham README ichiga** kod blok sifatida qo‘shib beray?
+`:spo:` → spoiler boshlanishi `:*spo:` yoki `:/spo:` → spoiler tugashi
 
 ## Dasturchi
 
